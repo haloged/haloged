@@ -11,5 +11,5 @@
 </dev>
 <dev>
   <h2>Tools</h2>
-  <img src="https://skillicons.dev/icons?i=vscode,git,markdown,vercel,vim,visualstudio,github">
+  <img src="https://skillicons.dev/icons?i=vscode,git,markdown,vercel,vim,visualstudio,github,vue,go">
 </dev>
