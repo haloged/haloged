@@ -7,9 +7,9 @@
 </dev>
 <dev>
   <h2>Skills</h2>
-  <img src="https://skillicons.dev/icons?i=html,js,css,python,cpp,nodejs">
+  <img src="https://skillicons.dev/icons?i=html,js,css,python,cpp,nodejs,vue,go">
 </dev>
 <dev>
   <h2>Tools</h2>
-  <img src="https://skillicons.dev/icons?i=vscode,git,markdown,vercel,vim,visualstudio,github,vue,go">
+  <img src="https://skillicons.dev/icons?i=vscode,git,markdown,vercel,vim,visualstudio,github">
 </dev>
